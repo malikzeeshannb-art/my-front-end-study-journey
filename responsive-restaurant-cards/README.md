@@ -1,6 +1,7 @@
 # Responsive Restaurant Landing Page – FreshBite
 
-This project is a small responsive restaurant landing page built with **HTML and CSS** as part of my frontend learning journey.
+This project is a single-page layout, so all CSS styles are embedded directly inside the <style> tag within the HTML file. In a larger project, these styles would typically be moved to separate external CSS files, but for simplicity and focus, they’re kept inside this file. 
+and this project is a small responsive restaurant landing page built with **HTML and CSS** as part of my frontend learning journey.
 
 Instead of following step-by-step tutorials, I practice by asking AI to act as a **senior developer or client** and give me a project brief. I then build the project independently based on the requirements.
 
