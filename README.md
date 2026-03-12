@@ -53,4 +53,7 @@ Technologies used:
 - Flexbox
 - Responsive design principles
 
-Project folder:
+Project folder name: Project-UI-Polish-Animations
+
+I've many other folder posted in my main folder and each folder have there owen "README.md" file that explain about the project in full and clear detail.
+so you can open any folder that you're watching up and you'll find there own files, e,g, css files index file README.md file and much more in the future.
